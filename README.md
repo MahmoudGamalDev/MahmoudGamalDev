@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mahmoud Gamal
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through mahmoudgamalawad10@gmail.com
 
 <!---
